@@ -1,0 +1,9 @@
+// Programa de ejemplo
+int a = 10;
+int b = 3;
+real promedio = (a + b) / 2;
+real r = a;
+bool listo = true;
+a = a - b - 2;
+print(promedio);
+print(listo);
